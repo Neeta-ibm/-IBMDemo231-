@@ -8,7 +8,4 @@ pipeline {
     }
 
   }
-  environment {
-    prd = 'IBM server'
-  }
 }
