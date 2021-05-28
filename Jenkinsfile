@@ -1,9 +1,9 @@
 pipeline {
   agent none
   stages {
-    stage('hello today we are learning') {
+    stage('IBM_WebAppDevelopment1') {
       steps {
-        echo 'Hello,today we are learning'
+        echo 'Status is successful'
         echo 'hello today we are learning'
       }
     }
